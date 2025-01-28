@@ -1,1 +1,3 @@
 # exchangeRates
+
+Bitrix module
